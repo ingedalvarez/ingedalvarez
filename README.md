@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ingedalvarez
-- 👀 I’m interested in ... JAVA functional
-- 🌱 I’m currently learning ... JAVA
-- 💞️ I’m looking to collaborate on ... JAVA
-- 📫 How to reach me ... dont do it.
+- 👀 I’m interested in ... Job in development area.
+- 🌱 I’m currently learning ... JAVA Rest API and MVC, Spring Boot, Maven, React, JavaScript, Thymeleaf.
+- 💞️ I’m looking to collaborate on ... JAVA, Machine Learning and Big Data.
+- 📫 How to reach me ... send me e mesage to ingedalvarez@gmail.com.
 
 <!---
 ingedalvarez/ingedalvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
